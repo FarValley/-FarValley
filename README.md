@@ -1,2 +1,2 @@
-# -FarValley
-Правила сервера.
+# FarValley
+<title>Правила сервера.</title>
